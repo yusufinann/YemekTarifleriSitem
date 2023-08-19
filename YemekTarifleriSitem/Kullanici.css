@@ -1,0 +1,30 @@
+﻿a:link {
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Segoue-UI';
+    font-style: normal;
+}
+
+a:hover {
+    font-size: 20px;
+    color: yellowgreen;
+}
+
+.tb5 {
+    border: 2px solid #456879;
+    border-radius: 10px;
+    height: 22px;
+    width: 230px;
+}
+.testbutton {
+    font-family: arial;
+    color: #14396A !important;
+    font-size: 14px;
+    text-shadow: 1px 1px 0px #7CACDE;
+    box-shadow: 1px 1px 1px #BEE2F9;
+    padding: 10px 25px;
+    border-radius: 10px;
+    border: 2px solid #3866A3;
+    background: red;
+    background: linear-gradient(to top, yellowgreen, yellowgreen);
+}
